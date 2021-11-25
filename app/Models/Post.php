@@ -22,4 +22,6 @@ class Post extends Model
         'content' => 'string',
         'is_feature' => 'boolean',
     ];
+
+
 }
